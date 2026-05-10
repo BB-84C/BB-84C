@@ -1,0 +1,7 @@
+# Private local workbench material
+local/
+
+# Common editor / OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
