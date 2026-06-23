@@ -20,10 +20,11 @@ Lifetime Token Statistics: ![TokenArena tokens badge](https://token.poco-ai.com/
 
 ---
 
-- [`QUAIL-Bot`](https://github.com/BB-84C/QUAIL-Bot) — an instrument-facing agent system for quantum uncertain action-outcome instrument loop, with CLI-first control, GUI fallback, and long-horizon execution.
-- [`quail-cli-core`](https://github.com/BB-84C/quail-cli-core) — a universal quantum instrument CLI driver kit for quail bots and any other AI agents.
-- [`omo-slim-superpowers-patch-kit`](https://github.com/BB-84C/omo-slim-superpowers-patch-kit) — a patch kit that makes [oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) and [Superpowers](https://github.com/obra/superpowers) work together. 1+1<2 if without the patch but now 1+1>2.  
-- [`Fallout-Wastland-Simulation`](https://github.com/BB-84C/Fallout-Wastland-Simulation) [![Play now](https://img.shields.io/badge/Play%20now-online-brightgreen?style=flat)](https://fallout-rpg-sim-6783240175.asia-northeast1.run.app/) — a full LLM driven RPG open-world simulation mini game.
+- [`QUAILBot-Pi`](https://github.com/BB-84C/quailbot-pi) — QUAIL for Quantum Uncertain Action-outcome Instrument Loop. QUAILBot-Pi is a [`Pi agent`](https://github.com/earendil-works/pi) extension built for controlling quantum physics instruments that require real-time smart-decision-in-loop action instead of hard-coded scripts.
+- [`quail-cli-core`](https://github.com/BB-84C/quail-cli-core) — a universal quantum physics instrument CLI driver dev kit for quailbots and any other AI agents.
+- [`Bethesda Games Modding Superpowers`](https://github.com/BB-84C/bgs-modding-superpowers) — — An agentic skills and tools framework for end-to-end modding Bethesda Game Studio games such as Skyrim, Fallout 3/NV/4, and Starfield. 
+- [`omo-slim-superpowers-patch-kit`](https://github.com/BB-84C/omo-slim-superpowers-patch-kit) — a patch kit that makes [oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) and [Superpowers](https://github.com/obra/superpowers) work together. 1+1<2 if without the patch, but now 1+1>2.
+- [`Fallout-Wastland-Simulation`](https://github.com/BB-84C/Fallout-Wastland-Simulation) [![Play now](https://img.shields.io/badge/Play%20now-online-brightgreen?style=flat)](https://fallout-rpg-sim-6783240175.asia-northeast1.run.app/) — a full LLM-driven RPG open-world simulation mini game.
 
 ## My research
 
