@@ -9,7 +9,7 @@ My favorite AI harness is [OpenCode](https://github.com/anomalyco/opencode), fav
   <img alt="OpenCode activity heat map" src="https://tokenobs.bb84.ai/heatmap/tokens.svg?theme=dark">
 </picture>
 
-Lifetime Token Statistics: ![opencode tokens](https://img.shields.io/endpoint?url=https://tokenobs.bb84.ai/badge/tokens)
+Lifetime Token Statistics: ![lifetime tokens](https://img.shields.io/endpoint?url=https://tokenobs.bb84.ai/badge/tokens)
 
 ## What I build
 
