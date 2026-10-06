@@ -2,7 +2,7 @@
 
 I build **WITH** and **FOR** AI: **AI native** research environment for quantum-materials experiments, instrument control, scientific workflows, and AI agents for lab work. 
 
-My favorite AI harness is [OpenCode](https://github.com/anomalyco/opencode), favorite model is gpt-5.x. 
+My favorite AI harness is [OpenCode](https://github.com/anomalyco/opencode). 
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://tokenobs.bb84.ai/heatmap/tokens.svg?theme=light">
